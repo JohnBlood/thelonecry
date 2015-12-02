@@ -1,4 +1,12 @@
-Squiffy is a tool for creating interactive stories.
+You are the captain of the starship Granger. You always dreamed of being a dashing sharship captain exploring new galaxies, but the fact of the matter is that you are a glorified truck driver.<br>
+
+One day, your communication officer turns to you as the ship nears Jupiter and says "Sir, I'm picking up a strange message from Europa."<br>
+"[[Nothing for us to worry about]](ignore1)" you reply. Let the Space Patrol handle it.
+
+[[ignore1]]:
+You continue on your way to Pluto, confident that the overworked space police will take care of it. besides you have a schedule to keep.<br>
+
+However, the next day. you are passing the same way again, this time with a cargo hold full of aluminum ore.
 
 You write your story in a text file. Each choice is represented by a [[new section]]. You can create links to new sections by surrounding them in double square brackets.
 
