@@ -8,3 +8,5 @@ This is an [interactive fiction](https://en.wikipedia.org/wiki/Interactive_ficti
 The game itself is written with [Squiffy](https://github.com/textadventures/squiffy) and was inspired by [Signal from Mars](https://github.com/fadelakin/SFM). You can download Signal from Mars from [F-Droid](https://f-droid.org/repository/browse/?fdfilter=interactive&fdid=com.fisheradelakin.interactivestory).
 
 When this game is finshed, I will post the link to the finished product.
+
+#==This is a work in progress!!!==
