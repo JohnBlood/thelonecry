@@ -1,5 +1,6 @@
-#The Lone Cry
-##by John Paul Wohlscheid
+# The Lone Cry
+
+## by John Paul Wohlscheid
 [![forthebadge](http://forthebadge.com/images/badges/powered-by-water.svg)](http://forthebadge.com)
 
 GitHub seems to want a readme file, so here we go.
@@ -9,4 +10,4 @@ The game itself is written with [Squiffy](https://github.com/textadventures/squi
 
 When this game is finshed, I will post the link to the finished product.
 
-#==This is a work in progress!!!==
+# ==This is a work in progress!!!==
